@@ -1,0 +1,125 @@
+[
+
+    {
+
+        "username": "Admin",
+
+        "password": "1234",
+
+        "balance": 0,
+
+        "isAdmin": true
+
+    },
+
+    {
+
+        "username": "Tche",
+
+        "password": "tche865",
+
+        "balance": 1000
+
+    },
+
+    {
+
+        "username": "matador",
+
+        "password": "matei",
+
+        "balance":21000
+
+    },
+
+    {
+
+        "username": "Guilherme",
+
+        "password": "fla",
+
+        "balance": 21000
+
+    },
+
+    {
+
+        "username": "Fgrl",
+
+        "password": "123456788",
+
+        "balance":21000
+
+    },
+
+    {
+
+        "username": "Lele",
+
+        "password": "le27",
+
+        "balance":210000
+
+    },
+
+    {
+
+        "username": "Wl",
+
+        "password": "wl027",
+
+        "balance": 21000
+
+    },
+
+    {
+
+        "username": "Cris",
+
+        "password": "crisboco",
+
+        "balance":21000
+
+    },
+
+    {
+
+        "username": "Jaquisson95",
+
+        "password": "jack2705",
+
+        "balance": 21000
+
+    },
+
+    {
+
+        "username": "Cristian",
+
+        "password": "097963",
+
+        "balance": 21000
+
+    },
+
+    {
+
+        "username": "Franklin",
+
+        "password": "vitoria",
+
+        "balance": 21000
+
+    },
+
+    {
+
+        "username": "Marcos",
+
+        "password": "santos111",
+
+        "balance": 21000
+
+    }
+
+]

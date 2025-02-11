@@ -1,0 +1,12 @@
+{
+  "name": "futebol-market",
+  "version": "1.0.0",
+  "description": "Mercado online de jogadores de futebol",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
