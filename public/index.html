@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Mercado de Jogadores</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap">
+
+    <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body>
+
+    <!-- Música de fundo -->
+    <audio id="background-music" autoplay loop>
+
+    <source src="futebol.mp3" type="audio/mpeg">
+
+    Seu navegador não suporta o elemento de áudio.
+
+</audio>
+    
+    <!-- Botão de mute -->
+
+    <button id="mute-button" onclick="toggleMute()">🔊</button>
+
+    <!-- Container de login -->
+
+    <div id="login-container">
+
+        <h1>Login</h1>
+
+        <form id="login-form">
+
+            <label for="username">Usuário:</label>
+
+            <input type="text" id="username" name="username" required>
+
+            <label for="password">Senha:</label>
+
+            <input type="password" id="password" name="password" required>
+
+            <button type="submit">Entrar</button>
+
+        </form>
+
+    </div>
+
+    <!-- Container do mercado -->
+
+    <div id="market-container" style="display: none;">
+
+        <div id="user-info">
+
+            <span id="coach-name"></span>
+
+            <span id="balance"></span>
+
+        </div>
+
+        <h1>Mercado de Jogadores</h1>
+
+        <!-- Opções de Administrador -->
+
+        <div id="admin-options" style="display: none;">
+
+            <h2>Opções de Administrador</h2>
+
+            <button onclick="addMoney()">Adicionar Dinheiro</button>
+
+            <button onclick="freePlayer()">Liberar Jogador</button>
+
+        </div>
+
+        <!-- Abas -->
+
+        <div id="tabs">
+
+            <button class="tab-button active" onclick="showTab('free-players')">Livres no Mercado</button>
+
+            <button class="tab-button" onclick="showTab('negotiating-players')">A Negociar</button>
+
+            <button class="tab-button" onclick="showTab('my-team')">Meu Time</button>
+
+        </div>
+
+        <!-- Conteúdo das Abas -->
+
+        <div id="free-players" class="tab-content">
+
+            <div id="players-list"></div>
+
+        </div>
+
+        <div id="negotiating-players" class="tab-content" style="display: none;">
+
+            <div id="negotiating-list"></div>
+
+        </div>
+
+        <div id="my-team" class="tab-content" style="display: none;">
+
+            <div id="my-team-list"></div>
+
+        </div>
+
+        <!-- Chat de Negociação -->
+
+        <div id="chat-container" style="display: none;">
+
+            <h2>Chat de Negociação</h2>
+
+            <div id="chat-messages"></div>
+
+            <input type="text" id="chat-input" placeholder="Digite sua mensagem...">
+
+            <button onclick="sendMessage()">Enviar Mensagem</button>
+
+            <button onclick="sendProposal()">Enviar Proposta</button>
+
+        </div>
+
+    </div>
+
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>

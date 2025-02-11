@@ -1,0 +1,689 @@
+[
+
+    {
+
+        "name": "Germán Cano",
+
+        "position": "Atacante",
+
+        "club": "Fluminense",
+
+        "photo": "https://example.com/cano.jpg",
+
+        "price": 5000000
+
+    },
+
+    {
+
+        "name": "Gabriel Barbosa (Gabigol)",
+
+        "position": "Atacante",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/gabigol.jpg",
+
+        "price": 7000000
+
+    },
+
+    {
+
+        "name": "Hulk",
+
+        "position": "Atacante",
+
+        "club": "Atlético-MG",
+
+        "photo": "https://example.com/hulk.jpg",
+
+        "price": 6000000
+
+    },
+
+    {
+
+        "name": "Raphael Veiga",
+
+        "position": "Meio-Campista",
+
+        "club": "Palmeiras",
+
+        "photo": "https://example.com/veiga.jpg",
+
+        "price": 4500000
+
+    },
+
+    {
+
+        "name": "Arrascaeta",
+
+        "position": "Meio-Campista",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/arrascaeta.jpg",
+
+        "price": 5500000
+
+    },
+
+    {
+
+        "name": "Fábio",
+
+        "position": "Goleiro",
+
+        "club": "Fluminense",
+
+        "photo": "https://example.com/fabio.jpg",
+
+        "price": 2000000
+
+    },
+
+    {
+
+        "name": "Weverton",
+
+        "position": "Goleiro",
+
+        "club": "Palmeiras",
+
+        "photo": "https://example.com/weverton.jpg",
+
+        "price": 3000000
+
+    },
+
+    {
+
+        "name": "Geromel",
+
+        "position": "Zagueiro",
+
+        "club": "Grêmio",
+
+        "photo": "https://example.com/geromel.jpg",
+
+        "price": 2500000
+
+    },
+
+    {
+
+        "name": "Miranda",
+
+        "position": "Zagueiro",
+
+        "club": "São Paulo",
+
+        "photo": "https://example.com/miranda.jpg",
+
+        "price": 2200000
+
+    },
+
+    {
+
+        "name": "Fagner",
+
+        "position": "Lateral",
+
+        "club": "Corinthians",
+
+        "photo": "https://example.com/fagner.jpg",
+
+        "price": 1800000
+
+    },
+
+    {
+
+        "name": "Renato Augusto",
+
+        "position": "Meio-Campista",
+
+        "club": "Corinthians",
+
+        "photo": "https://example.com/renato-augusto.jpg",
+
+        "price": 4000000
+
+    },
+
+    {
+
+        "name": "Yuri Alberto",
+
+        "position": "Atacante",
+
+        "club": "Corinthians",
+
+        "photo": "https://example.com/yuri-alberto.jpg",
+
+        "price": 3500000
+
+    },
+
+    {
+
+        "name": "Pedro",
+
+        "position": "Atacante",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/pedro.jpg",
+
+        "price": 5000000
+
+    },
+
+    {
+
+        "name": "Gustavo Scarpa",
+
+        "position": "Meio-Campista",
+
+        "club": "Palmeiras",
+
+        "photo": "https://example.com/scarpa.jpg",
+
+        "price": 3800000
+
+    },
+
+    {
+
+        "name": "Dudu",
+
+        "position": "Atacante",
+
+        "club": "Palmeiras",
+
+        "photo": "https://example.com/dudu.jpg",
+
+        "price": 4200000
+
+    },
+
+    {
+
+        "name": "Bruno Henrique",
+
+        "position": "Atacante",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/bruno-henrique.jpg",
+
+        "price": 4800000
+
+    },
+
+    {
+
+        "name": "Gerson",
+
+        "position": "Meio-Campista",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/gerson.jpg",
+
+        "price": 4700000
+
+    },
+
+    {
+
+        "name": "Hugo Souza",
+
+        "position": "Goleiro",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/hugo-souza.jpg",
+
+        "price": 1500000
+
+    },
+
+    {
+
+        "name": "Rodrigo Caio",
+
+        "position": "Zagueiro",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/rodrigo-caio.jpg",
+
+        "price": 2800000
+
+    },
+
+    {
+
+        "name": "Luciano",
+
+        "position": "Atacante",
+
+        "club": "São Paulo",
+
+        "photo": "https://example.com/luciano.jpg",
+
+        "price": 3200000
+
+    },
+
+    {
+
+        "name": "Calleri",
+
+        "position": "Atacante",
+
+        "club": "São Paulo",
+
+        "photo": "https://example.com/calleri.jpg",
+
+        "price": 3400000
+
+    },
+
+    {
+
+        "name": "Pablo Maia",
+
+        "position": "Meio-Campista",
+
+        "club": "São Paulo",
+
+        "photo": "https://example.com/pablo-maia.jpg",
+
+        "price": 2000000
+
+    },
+
+    {
+
+        "name": "Igor Gomes",
+
+        "position": "Meio-Campista",
+
+        "club": "São Paulo",
+
+        "photo": "https://example.com/igor-gomes.jpg",
+
+        "price": 1800000
+
+    },
+
+    {
+
+        "name": "Rafinha",
+
+        "position": "Lateral",
+
+        "club": "Grêmio",
+
+        "photo": "https://example.com/rafinha.jpg",
+
+        "price": 1600000
+
+    },
+
+    {
+
+        "name": "Diego Souza",
+
+        "position": "Atacante",
+
+        "club": "Grêmio",
+
+        "photo": "https://example.com/diego-souza.jpg",
+
+        "price": 2200000
+
+    },
+
+    {
+
+        "name": "Luan",
+
+        "position": "Meio-Campista",
+
+        "club": "Grêmio",
+
+        "photo": "https://example.com/luan.jpg",
+
+        "price": 1900000
+
+    },
+
+    {
+
+        "name": "Kannemann",
+
+        "position": "Zagueiro",
+
+        "club": "Grêmio",
+
+        "photo": "https://example.com/kannemann.jpg",
+
+        "price": 2100000
+
+    },
+
+    {
+
+        "name": "Everton Ribeiro",
+
+        "position": "Meio-Campista",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/everton-ribeiro.jpg",
+
+        "price": 4000000
+
+    },
+
+    {
+
+        "name": "Giorgian De Arrascaeta",
+
+        "position": "Meio-Campista",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/arrascaeta.jpg",
+
+        "price": 5500000
+
+    },
+
+    {
+
+        "name": "Filipe Luís",
+
+        "position": "Lateral",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/filipe-luis.jpg",
+
+        "price": 2500000
+
+    },
+
+    {
+
+        "name": "David Luiz",
+
+        "position": "Zagueiro",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/david-luiz.jpg",
+
+        "price": 3000000
+
+    },
+
+    {
+
+        "name": "Gabriel Menino",
+
+        "position": "Meio-Campista",
+
+        "club": "Palmeiras",
+
+        "photo": "https://example.com/gabriel-menino.jpg",
+
+        "price": 2800000
+
+    },
+
+    {
+
+        "name": "Danilo",
+
+        "position": "Meio-Campista",
+
+        "club": "Palmeiras",
+
+        "photo": "https://example.com/danilo.jpg",
+
+        "price": 3200000
+
+    },
+
+    {
+
+        "name": "Marcos Rocha",
+
+        "position": "Lateral",
+
+        "club": "Palmeiras",
+
+        "photo": "https://example.com/marcos-rocha.jpg",
+
+        "price": 1800000
+
+    },
+
+    {
+
+        "name": "Gustavo Gómez",
+
+        "position": "Zagueiro",
+
+        "club": "Palmeiras",
+
+        "photo": "https://example.com/gustavo-gomez.jpg",
+
+        "price": 3500000
+
+    },
+
+    {
+
+        "name": "Rony",
+
+        "position": "Atacante",
+
+        "club": "Palmeiras",
+
+        "photo": "https://example.com/rony.jpg",
+
+        "price": 3000000
+
+    },
+
+    {
+
+        "name": "Zé Rafael",
+
+        "position": "Meio-Campista",
+
+        "club": "Palmeiras",
+
+        "photo": "https://example.com/ze-rafael.jpg",
+
+        "price": 2700000
+
+    },
+
+    {
+
+        "name": "Dudu",
+
+        "position": "Atacante",
+
+        "club": "Palmeiras",
+
+        "photo": "https://example.com/dudu.jpg",
+
+        "price": 4200000
+
+    },
+
+    {
+
+        "name": "Weverton",
+
+        "position": "Goleiro",
+
+        "club": "Palmeiras",
+
+        "photo": "https://example.com/weverton.jpg",
+
+        "price": 3000000
+
+    },
+
+    {
+
+        "name": "Rafael Navarro",
+
+        "position": "Atacante",
+
+        "club": "Palmeiras",
+
+        "photo": "https://example.com/rafael-navarro.jpg",
+
+        "price": 2000000
+
+    },
+
+    {
+
+        "name": "Léo Pereira",
+
+        "position": "Zagueiro",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/leo-pereira.jpg",
+
+        "price": 2200000
+
+    },
+
+    {
+
+        "name": "Matheus Cunha",
+
+        "position": "Goleiro",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/matheus-cunha.jpg",
+
+        "price": 1500000
+
+    },
+
+    {
+
+        "name": "Thiago Maia",
+
+        "position": "Meio-Campista",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/thiago-maia.jpg",
+
+        "price": 2600000
+
+    },
+
+    {
+
+        "name": "Vitinho",
+
+        "position": "Atacante",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/vitinho.jpg",
+
+        "price": 1800000
+
+    },
+
+    {
+
+        "name": "Pedro Rocha",
+
+        "position": "Atacante",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/pedro-rocha.jpg",
+
+        "price": 2000000
+
+    },
+
+    {
+
+        "name": "Michael",
+
+        "position": "Atacante",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/michael.jpg",
+
+        "price": 1900000
+
+    },
+
+    {
+
+        "name": "Andreas Pereira",
+
+        "position": "Meio-Campista",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/andreas-pereira.jpg",
+
+        "price": 3000000
+
+    },
+
+    {
+
+        "name": "Ayrton Lucas",
+
+        "position": "Lateral",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/ayrton-lucas.jpg",
+
+        "price": 2200000
+
+    },
+
+    {
+
+        "name": "Rodinei",
+
+        "position": "Lateral",
+
+        "club": "Flamengo",
+
+        "photo": "https://example.com/rodinei.jpg",
+
+        "price": 1800000
+
+    }
+
+]
